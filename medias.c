@@ -27,7 +27,7 @@ int main(void){
     scanf("%f", &x);
     printf("Me diga o segundo: ");
     scanf("%f", &y);
-    printf("\Me diga o terceiro: ");
+    printf("Me diga o terceiro: ");
     scanf("%f", &z);    
     printf("Deixe-me calcular para ti!\n");
 
