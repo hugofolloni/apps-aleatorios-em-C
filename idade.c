@@ -1,3 +1,5 @@
+//Esse projeto tem como função calcular a idade do usuário com base em sua data de nascimento
+
 #include <stdio.h>
 #include <time.h>
 
